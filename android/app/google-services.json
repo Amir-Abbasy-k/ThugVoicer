@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "188296465674",
+    "firebase_url": "https://shop-111.firebaseio.com",
+    "project_id": "shop-111",
+    "storage_bucket": "shop-111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188296465674:android:06a368f37f2d729f063ef3",
+        "android_client_info": {
+          "package_name": "com.thugwhatsappvoicer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188296465674-d7h46k3g34n3tn22fo76a2o9rghpp5h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_Oi3gdwdjckh-ggBAehXGLlPBPwQIRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188296465674-d7h46k3g34n3tn22fo76a2o9rghpp5h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188296465674:android:76d9ddb3f24a0fd8063ef3",
+        "android_client_info": {
+          "package_name": "com.whatsappvoices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188296465674-d7h46k3g34n3tn22fo76a2o9rghpp5h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_Oi3gdwdjckh-ggBAehXGLlPBPwQIRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188296465674-d7h46k3g34n3tn22fo76a2o9rghpp5h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
